@@ -18,6 +18,7 @@ Code and datafiles used in the AM10 course
 | Study Group   | SG Members           |Github ID                      |Github Repo for final project        | URL address for final project       |Date Added     |  
 |:--------------|:---------------------|:------------------------------------------------------|:-----------------------|:-------------------------------------|:-----------------------| 
 | 00     |Member x, member y |kostis-christodoulou |<https://github.com/>|<N/A>     | 2011-11-01 |
+| 10     | Hanlu Lin, Hao Ni, Junna Yanai, Lazar Jelic, Purva Sikri, Valeria Morales | jelic98 | https://github.com/jelic98/lbs_am10_group | None | 2011-11-09 |
 | 12     |Akshat Kacheria, Asli Ceren Memis, Jelena Savic, Shengcheng Liu, Shuhan Li, Sophia Kalusche |sophia-2021 |<https://github.com/sophia-2021/AM10_StudyGroup12.git>|<N/A>     | 2011-11-09 |
-| 01     |Jiangxia Rory Yu; Marianna Taki; Yuting Wu; Ferdinand Wohlenberg; Massimiliano Ursig; Tanisha Yadav |RoryYu327; marianna-taki; YutingWu-Joanna; ferdiwo; massimilianoursig; tayadav |<https://github.com/tayadav/Data_visualization.git>|  <N/A>  | 2011-11-09 |
 | 02     |Linli Ding, Yifan Yang, Clemens Scherf, Edoardo Ferri, Hamish Thomas |yiyesther |<https://github.com/yiyesther/AM10_Group_2.git>|<N/A>     | 2011-11-09 |
+| 01     |Jiangxia Rory Yu; Marianna Taki; Yuting Wu; Ferdinand Wohlenberg; Massimiliano Ursig; Tanisha Yadav |RoryYu327; marianna-taki; YutingWu-Joanna; ferdiwo; massimilianoursig; tayadav |<https://github.com/tayadav/Data_visualization.git>|  <N/A>  | 2011-11-09 |
