@@ -20,3 +20,4 @@ Code and datafiles used in the AM10 course
 | 00     |Member x, member y |kostis-christodoulou |<https://github.com/>|<N/A>     | 2011-11-01 |
 | 12     |Akshat Kacheria, Asli Ceren Memis, Jelena Savic, Shengcheng Liu, Shuhan Li, Sophia Kalusche |sophia-2021 |<https://github.com/sophia-2021/AM10_StudyGroup12.git>|<N/A>     | 2011-11-09 |
 | 01     |Jiangxia Rory Yu; Marianna Taki; Yuting Wu; Ferdinand Wohlenberg; Massimiliano Ursig; Tanisha Yadav |RoryYu327; marianna-taki; YutingWu-Joanna; ferdiwo; massimilianoursig; tayadav |<https://github.com/tayadav/Data_visualization.git>|  <N/A>  | 2011-11-09 |
+| 03     |Jiaying Chen; Yingjin He; Kashish Solanki; Sabrina Seow; Roman Vazquez Lorenzo; Maximilian Stock |maximilianstock |<https://github.com/maximilianstock/AM10-Group-3>|  <N/A>  | 2011-11-09 |
