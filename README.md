@@ -18,3 +18,4 @@ Code and datafiles used in the AM10 course
 | Study Group   | SG Members           |Github ID                      |Github Repo for final project        | URL address for final project       |Date Added     |  
 |:--------------|:---------------------|:------------------------------------------------------|:-----------------------|:-------------------------------------|:-----------------------| 
 | 00     |Member x, member y |kostis-christodoulou |<https://github.com/>|<N/A>     | 2011-11-01 |
+| 01     |Jiangxia Rory Yu; Marianna Taki; Yuting Wu; Ferdinand Wohlenberg; Massimiliano Ursig; Tanisha Yadav |RoryYu327; marianna-taki; YutingWu-Joanna; ferdiwo; massimilianoursig; tayadav |<https://github.com/tayadav/Data_visualization.git>|  <N/A>  | 2011-11-09 |
