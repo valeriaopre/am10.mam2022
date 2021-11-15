@@ -3,7 +3,6 @@ library(vroom)
 library(here)
 
 # to get the data as of Nov 14, 2021, just read the csv saved in the data folder
-
 covid_data <- vroom(here::here("data", "covid_data.csv"))  
   
 # if you want to get an up-to-date version, run the following lines
